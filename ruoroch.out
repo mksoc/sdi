@@ -1,0 +1,49 @@
+\BOOKMARK [0][-]{chapter.1}{Memorie: RAM e ROM}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Classificazione}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{RAM statica \(SRAM\)}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Struttura interna}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Lettura e scrittura}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.3}{Interfaccia esterna}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.4}{Timing diagram}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.5}{SRAM sincrone \(SSRAM\)}{section.1.2}% 8
+\BOOKMARK [1][-]{section.1.3}{RAM dinamica \(DRAM\)}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.3.1}{Struttura interna}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.2}{Interfaccia esterna}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.3}{Timing diagram}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.4}{DRAM sincrone \(SDRAM\)}{section.1.3}% 13
+\BOOKMARK [1][-]{section.1.4}{ROM}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.4.1}{PROM \(Programmable ROM\)}{section.1.4}% 15
+\BOOKMARK [2][-]{subsection.1.4.2}{EPROM \(Erasable Programmable ROM\)}{section.1.4}% 16
+\BOOKMARK [2][-]{subsection.1.4.3}{EEPROM \(Electrically Erasable Programmable ROM\)}{section.1.4}% 17
+\BOOKMARK [0][-]{chapter.2}{Memorie: Flash}{}% 18
+\BOOKMARK [1][-]{section.2.1}{NOR flash}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.2}{NAND flash}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.1}{Struttura interna}{section.2.2}% 21
+\BOOKMARK [2][-]{subsection.2.2.2}{Confronto tra NAND flash e HDD}{section.2.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.3}{Confronto tra NAND e NOR flash}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.4}{Interfaccia esterna}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.5}{Operazioni di base}{section.2.2}% 25
+\BOOKMARK [2][-]{subsection.2.2.6}{Multi Level Cell \(MLC\)}{section.2.2}% 26
+\BOOKMARK [2][-]{subsection.2.2.7}{Prestazioni}{section.2.2}% 27
+\BOOKMARK [2][-]{subsection.2.2.8}{ONFI e NAND flash ad alte prestazioni}{section.2.2}% 28
+\BOOKMARK [2][-]{subsection.2.2.9}{Cause di errore}{section.2.2}% 29
+\BOOKMARK [2][-]{subsection.2.2.10}{Bit di ECC}{section.2.2}% 30
+\BOOKMARK [2][-]{subsection.2.2.11}{eMMC}{section.2.2}% 31
+\BOOKMARK [0][-]{chapter.3}{Sistema di memoria}{}% 32
+\BOOKMARK [1][-]{section.3.1}{Cache}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.1.1}{Algoritmi di mapping}{section.3.1}% 34
+\BOOKMARK [2][-]{subsection.3.1.2}{Algoritmi di replacement}{section.3.1}% 35
+\BOOKMARK [2][-]{subsection.3.1.3}{Scrittura}{section.3.1}% 36
+\BOOKMARK [1][-]{section.3.2}{Memoria virtuale}{chapter.3}% 37
+\BOOKMARK [2][-]{subsection.3.2.1}{Demand paging}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.2}{Traduzione degli indirizzi}{section.3.2}% 39
+\BOOKMARK [1][-]{section.3.3}{Direct Memory Access \(DMA\)}{chapter.3}% 40
+\BOOKMARK [0][-]{chapter.4}{Interfacce seriali}{}% 41
+\BOOKMARK [1][-]{section.4.1}{I2C \(Inter Integrated Circuit\)}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.1.1}{Protocollo di trasmissione}{section.4.1}% 43
+\BOOKMARK [1][-]{section.4.2}{SPI \(Serial Peripheral Interface\)}{chapter.4}% 44
+\BOOKMARK [0][-]{chapter.5}{Compatibilit\340 elettromagnetica \(EMC\)}{}% 45
+\BOOKMARK [1][-]{section.5.1}{Metodologia di test}{chapter.5}% 46
+\BOOKMARK [1][-]{section.5.2}{Disturbi irradiati}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.2.1}{Disturbo di modo differenziale}{section.5.2}% 48
+\BOOKMARK [2][-]{subsection.5.2.2}{Disturbo di modo comune}{section.5.2}% 49

@@ -1,0 +1,65 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{\numberline {1}Memorie: RAM e ROM}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Classificazione}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}RAM statica (SRAM)}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Struttura interna}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Lettura e scrittura}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Interfaccia esterna}{6}{subsection.1.2.3}
+\contentsline {subsubsection}{Segnali di controllo}{7}{section*.7}
+\contentsline {subsection}{\numberline {1.2.4}Timing diagram}{8}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}SRAM sincrone (SSRAM)}{10}{subsection.1.2.5}
+\contentsline {section}{\numberline {1.3}RAM dinamica (DRAM)}{11}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Struttura interna}{12}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Interfaccia esterna}{13}{subsection.1.3.2}
+\contentsline {subsubsection}{Segnali di controllo}{13}{section*.14}
+\contentsline {subsection}{\numberline {1.3.3}Timing diagram}{14}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}DRAM sincrone (SDRAM)}{15}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}ROM}{18}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}PROM (Programmable ROM)}{18}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}EPROM (Erasable Programmable ROM)}{19}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}EEPROM (Electrically Erasable Programmable ROM)}{20}{subsection.1.4.3}
+\contentsline {chapter}{\numberline {2}Memorie: Flash}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}NOR flash}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}NAND flash}{23}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Struttura interna}{23}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Confronto tra NAND flash e HDD}{24}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Confronto tra NAND e NOR flash}{25}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Interfaccia esterna}{25}{subsection.2.2.4}
+\contentsline {subsubsection}{Segnali di controllo}{25}{section*.26}
+\contentsline {subsection}{\numberline {2.2.5}Operazioni di base}{26}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Multi Level Cell (MLC)}{28}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Prestazioni}{30}{subsection.2.2.7}
+\contentsline {subsubsection}{Lettura}{30}{section*.31}
+\contentsline {subsubsection}{Scrittura}{31}{section*.33}
+\contentsline {subsection}{\numberline {2.2.8}ONFI e NAND flash ad alte prestazioni}{31}{subsection.2.2.8}
+\contentsline {subsubsection}{ONFI 1.0}{32}{section*.35}
+\contentsline {subsubsection}{ONFI 2.0}{32}{section*.36}
+\contentsline {subsection}{\numberline {2.2.9}Cause di errore}{34}{subsection.2.2.9}
+\contentsline {subsubsection}{Program disturb}{34}{section*.40}
+\contentsline {subsubsection}{Read disturb}{35}{section*.42}
+\contentsline {subsubsection}{Data retention}{35}{section*.44}
+\contentsline {subsubsection}{Endurance}{36}{section*.46}
+\contentsline {subsection}{\numberline {2.2.10}Bit di ECC}{37}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}eMMC}{37}{subsection.2.2.11}
+\contentsline {chapter}{\numberline {3}Sistema di memoria}{38}{chapter.3}
+\contentsline {section}{\numberline {3.1}Cache}{39}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Algoritmi di mapping}{40}{subsection.3.1.1}
+\contentsline {subsubsection}{Direct mapping}{41}{section*.51}
+\contentsline {subsubsection}{Set associative mapping}{42}{section*.53}
+\contentsline {subsubsection}{Fully associative mapping}{43}{section*.55}
+\contentsline {subsection}{\numberline {3.1.2}Algoritmi di replacement}{43}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Scrittura}{43}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Memoria virtuale}{44}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Demand paging}{44}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Traduzione degli indirizzi}{46}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Direct Memory Access (DMA)}{46}{section.3.3}
+\contentsline {chapter}{\numberline {4}Interfacce seriali}{49}{chapter.4}
+\contentsline {section}{\numberline {4.1}$\text {I}^2\text {C}$\ (Inter Integrated Circuit)}{49}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Protocollo di trasmissione}{50}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}SPI (Serial Peripheral Interface)}{52}{section.4.2}
+\contentsline {chapter}{\numberline {5}Compatibilit\IeC {\`a} elettromagnetica (EMC)}{54}{chapter.5}
+\contentsline {section}{\numberline {5.1}Metodologia di test}{54}{section.5.1}
+\contentsline {section}{\numberline {5.2}Disturbi irradiati}{55}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Disturbo di modo differenziale}{56}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Disturbo di modo comune}{58}{subsection.5.2.2}

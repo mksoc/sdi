@@ -1,0 +1,9 @@
+{signal: [
+  {name: 'A', wave: 'x=.....x.', data: ['ADDR']},
+  {name: 'D', wave: 'z..x=..z.', data: ['DATA'], node: '...C...D'},
+  {name: '<o>CS<o>', wave: '1.0...1..', node: '..A...B'},
+  {name: '<o>WE<o>', wave: 'x.1....x.'},
+  {name: '<o>OE<o>', wave: 'x.0....x.'}
+  ],
+ edge: ['A~>C', 'B~>D']
+}
